@@ -65,13 +65,6 @@ Scalable, serverless data platform on AWS using medallion architecture
 
 ---
 
-## 📊 GitHub Stats
-
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkumar00a2&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar00a2&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-0700ba193)
